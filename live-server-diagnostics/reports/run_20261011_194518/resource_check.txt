@@ -1,0 +1,9 @@
+SYSTEM INFO
+===========
+Timestamp: 2026-10-11 19:45:18.483062
+Hostname: BrentsMcBookNeo.lan
+Operating system: Darwin
+OS version: Darwin Kernel Version 25.6.0: Fri Jul 31 19:16:38 PDT 2026; root:xnu-12377.161.14~5/RELEASE_ARM64_T8140
+Machine type: arm64
+Current user ID: 501
+Current working directory: /Users/bsmooth705/Documents/TheoWAF/cpg/cloudfundamentals/fall2026bootcamp2.0/live-server-diagnostics
