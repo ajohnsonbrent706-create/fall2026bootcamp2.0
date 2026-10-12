@@ -1,0 +1,13 @@
+DISK SNAPSHOT
+=============
+Target path: /Users/bsmooth705/Documents/TheoWAF/cpg/cloudfundamentals/fall2026bootcamp2.0/live-server-diagnostics
+
+Filesystem usage:
+Filesystem      Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s5   460Gi    77Gi   360Gi    18%    796k  3.8G    0%   /System/Volumes/Data
+
+Directory size:
+ 44K	/Users/bsmooth705/Documents/TheoWAF/cpg/cloudfundamentals/fall2026bootcamp2.0/live-server-diagnostics
+
+File count:
+       2
